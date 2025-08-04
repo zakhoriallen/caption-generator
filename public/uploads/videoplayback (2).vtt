@@ -1,0 +1,213 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.400
+Researchers have launched an open-source exoskeleton that could help people walk and train the robots of tomorrow.
+
+2
+00:00:07.400 --> 00:00:09.800
+And it really do mean tomorrow.
+
+3
+00:00:09.800 --> 00:00:14.800
+We are getting to the point where robotics is starting to operate in a very human-like way.
+
+4
+00:00:14.800 --> 00:00:21.000
+That includes AI learning how humans move and then applying it to a non-linear framework.
+
+5
+00:00:21.000 --> 00:00:22.199
+We will talk about it.
+
+6
+00:00:22.199 --> 00:00:29.199
+Now the AI suit is again fully open-source and many of the components can be assembled fairly easily and with a 3D printer.
+
+7
+00:00:29.199 --> 00:00:34.399
+It learns along with the user so that the AI actually gets better over time.
+
+8
+00:00:34.399 --> 00:00:37.000
+It learns to anticipate what the user would do.
+
+9
+00:00:37.000 --> 00:00:41.200
+This could help people with movement disorders like ALS and MS.
+
+10
+00:00:41.200 --> 00:00:48.600
+And it could help people who are paralyzed or even those that are recovering from paralysis, helping them get moving again.
+
+11
+00:00:48.600 --> 00:00:52.799
+When we stop using our neurons, our bodies do kind of just forget.
+
+12
+00:00:52.799 --> 00:00:54.399
+This is so important.
+
+13
+00:00:54.399 --> 00:00:58.399
+If you've ever just broken a limb and needed to get a soft cast,
+
+14
+00:00:58.399 --> 00:01:02.200
+you know that insurance doesn't cover it and you know exactly how expensive it is.
+
+15
+00:01:02.200 --> 00:01:08.599
+People who have lost limbs, for example, are spending hundreds of thousands of dollars for something that is a little more than a hook.
+
+16
+00:01:08.599 --> 00:01:13.799
+And 3D printing has made it possible to give people limbs at a relatively low cost.
+
+17
+00:01:13.799 --> 00:01:17.799
+You may ask, why do replacements cost quite so much?
+
+18
+00:01:17.799 --> 00:01:22.000
+I don't have a good answer for you, but it's part of our insurance industry
+
+19
+00:01:22.200 --> 00:01:25.599
+and essentially companies charge as much as they can.
+
+20
+00:01:25.599 --> 00:01:29.400
+Then hopes that insurance will pay as much as they can get out of it.
+
+21
+00:01:29.400 --> 00:01:33.200
+Unfortunately, people usually end up putting the bell.
+
+22
+00:01:33.200 --> 00:01:35.200
+Yes, the answer is greed.
+
+23
+00:01:35.200 --> 00:01:39.799
+Now, these kinds of systems are really interesting because we have AI
+
+24
+00:01:39.799 --> 00:01:45.799
+which contract a multitude of different signals and put it together and actually learn with the user.
+
+25
+00:01:45.799 --> 00:01:49.799
+If you've ever broken your right hand repeatedly, like I have,
+
+26
+00:01:49.799 --> 00:01:53.400
+you know that it takes a little while to get used to using your left hand,
+
+27
+00:01:53.400 --> 00:01:55.400
+even to do simple tasks like eating.
+
+28
+00:01:55.400 --> 00:01:59.200
+Ideally, this kind of system would use non-linear AI.
+
+29
+00:01:59.200 --> 00:02:05.599
+So neuromorphic AI and I've covered some of them in which they actually model the spiking patterns of a human brain.
+
+30
+00:02:05.599 --> 00:02:12.199
+That type of AI is essentially plagiarizing our own neurology and it learns spatial movement a lot better.
+
+31
+00:02:12.199 --> 00:02:17.400
+Standard linear AI and what we see for our large language models is just not good at operating a body.
+
+32
+00:02:17.400 --> 00:02:22.199
+Interestingly, the kind of feedback that could be collected from people using exosuits
+
+33
+00:02:22.199 --> 00:02:27.400
+could be used in actual robots helping them learn how to behave in a more human way.
+
+34
+00:02:27.400 --> 00:02:32.599
+Also, this was a robot designed to show human-like emotions and it gives me the creeps.
+
+35
+00:02:32.599 --> 00:02:35.800
+Seriously, it's not comforting like at all.
+
+36
+00:02:35.800 --> 00:02:41.199
+If you follow the history of exosuits, well, they have been applied for people who have something like paralysis.
+
+37
+00:02:41.199 --> 00:02:43.800
+They've also been applied for military.
+
+38
+00:02:44.000 --> 00:02:57.599
+Something that people can operate at a distance that can behave very much like a person, but remotely and that technology is coming to a Japanese company along with a Chinese company that's H2, which is a humanoid robot.
+
+39
+00:02:57.599 --> 00:03:01.000
+They've collaborated and made a system that you can operate remotely.
+
+40
+00:03:01.000 --> 00:03:03.800
+They claim it's a lot like teleportation.
+
+41
+00:03:03.800 --> 00:03:11.800
+The robot learns the user's signals and that can be operated just with something like an EEG and the user gets hepatic feedback.
+
+42
+00:03:11.800 --> 00:03:15.000
+So they understand what's happening with the robot.
+
+43
+00:03:15.000 --> 00:03:19.800
+This technology has been being developed for quite some time, but it's still fairly nascent.
+
+44
+00:03:19.800 --> 00:03:31.000
+I do see a near future in which we actually fully map what's going on in our brains and can then reverse the flow so you can induce the feeling of what it would be like to operate a robot.
+
+45
+00:03:31.000 --> 00:03:35.000
+I swear I saw a movie about that like many years ago.
+
+46
+00:03:35.000 --> 00:03:37.000
+Does anyone know the name of that movie?
+
+47
+00:03:37.400 --> 00:03:47.400
+This technology could help people live full lives, but will probably be used for defense and video games, though we could have our real life sort art online.
+
+48
+00:03:47.400 --> 00:04:00.199
+Ultimately, I think this is really cool, but I do not think it will be good for humanity that does also open up the door to what it would mean to be able to teach people things without having ever needed to do the hard work.
+
+49
+00:04:00.199 --> 00:04:08.199
+I think that would be both awesome and slightly terrifying because we'll get into the realm of could you reprogram a person probably.
+
+50
+00:04:08.199 --> 00:04:17.399
+Yeah. As we're starting to model human neurons and train them in a virtual world, the next steps are going to be human neurons in a head.
+
+51
+00:04:17.399 --> 00:04:24.399
+Now, one of the things that you find really interesting is that people become very attached even to defense robots, which don't have much of a personality.
+
+52
+00:04:24.399 --> 00:04:32.399
+People have reported being distraught when a battlefield robot was destroyed, which honestly, I get I really do.
+
+53
+00:04:32.399 --> 00:04:37.399
+Now, how do you feel about our relationship with robots? Because I'm kind of on the fence, but I really do like them.
